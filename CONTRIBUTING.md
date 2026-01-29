@@ -6,4 +6,4 @@ Thank you for considering contributing to this project! 🎉
 If GitHub shows “There isn’t anything to compare,” ensure your feature branch has new commits and that base/compare branches are selected correctly.
 
 ##  Questions?
-Feel free to open a discussion or contact the maintainer!!
+Feel free to open a discussion or contact the maintainer!!# Feature improvements
