@@ -5,14 +5,32 @@ __pycache__/
 *.pyd
 .venv/
 venv/
+env/
 .env
-.DS_Store
+*.egg-info/
+dist/
+build/
 
-# VS Code
+# IDE
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
 
-# Media (keep small demo only)
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+*.avi
 *.mp4
 *.mov
-*.avi
 *.mkv
+output_*.avi
+invisibility_cloak_*.avi
+
+# Keep demo files
+!demo/*.gif
+!demo/*.png
+!demo/*.jpg
